@@ -1,0 +1,1 @@
+# Object-Detection-for-Blind-person-using-MobileNetSSD-model
